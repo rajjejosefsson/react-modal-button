@@ -11,6 +11,10 @@
 
 `npm i --save react-modal-button`
 
+## Example
+
+[Codesandbox.io](https://codesandbox.io/s/q86k5wxl09)
+
 ## Usage
 
 ```javascript
