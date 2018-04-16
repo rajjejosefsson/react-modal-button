@@ -1,11 +1,15 @@
 {
   "name": "react-modal-button",
   "description": "Modern Modal Usage",
-  "keywords": ["react", "modal", "backdrop", "button"],
-  "author":
-    "Rasmus Josefsson <josefssonrasmus@gmail.com> (http://rasmusjosefsson.com/)",
+  "keywords": [
+    "react",
+    "modal",
+    "backdrop",
+    "button"
+  ],
+  "author": "Rasmus Josefsson <josefssonrasmus@gmail.com> (http://rasmusjosefsson.com/)",
   "license": "MIT",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/rajjejosefsson/react-modal-button.git"
@@ -13,7 +17,9 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "CI=1 react-scripts test --env=jsdom",
     "build": "rollup -c",
@@ -62,6 +68,9 @@
     "uglify-es": "3.3.9"
   },
   "lint-staged": {
-    "*.{ts,tsx,js,json,css,md}": ["prettier --write", "git add"]
+    "*.{ts,tsx,js,json,css,md}": [
+      "prettier --write",
+      "git add"
+    ]
   }
 }
