@@ -5,7 +5,7 @@
 <div align="center"><img height="50px" src="https://camo.githubusercontent.com/801e23cd20de6f0e8838be63c663b081022fa6b4/68747470733a2f2f656d6f6a6970656469612d75732e73332e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f6170706c652f3132392f646f675f31663431352e706e67" /></div>
 <p align="center" style="font-size: 1.2rem;">Button that takes a modal as prop</p>
 
-img src="https://img.shields.io/badge/🦄-Just Works-cc00cc.svg"/> <img src="https://img.shields.io/badge/💎-Modern-44aadd.svg"/> <img src="https://img.shields.io/badge/🦋-Extremely Lightweight-7799cc.svg"/> <img src="https://img.shields.io/badge/🔥-Blazing%20Fast-red.svg"/>
+<img src="https://img.shields.io/badge/🦄-Just Works-cc00cc.svg"/> <img src="https://img.shields.io/badge/💎-Modern-44aadd.svg"/> <img src="https://img.shields.io/badge/🦋-Extremely Lightweight-7799cc.svg"/> <img src="https://img.shields.io/badge/🔥-Blazing%20Fast-red.svg"/>
 
 <hr />
 
