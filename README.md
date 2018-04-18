@@ -5,7 +5,7 @@
 
 <hr />
 
-<img src="https://img.shields.io/badge/🦄-Just Works-cc00cc.svg"/>
+<img src="https://img.shields.io/badge/🦄-Just Works-cc00cc.svg"/><img src="https://img.shields.io/badge/💎-Modern-44aadd.svg"/><img src="https://img.shields.io/badge/🦋-Extremely Lightweight-7799cc.svg"/><img src="https://img.shields.io/badge/🔥-Blazing%20Fast-red.svg"/>
 
 ## Installation
 
