@@ -18,7 +18,7 @@
 
 ## Example
 
-[Codesandbox.io](https://codesandbox.io/s/q86k5wxl09)
+[Demo here - Codesandbox.io](https://codesandbox.io/s/q86k5wxl09)
 
 ## Usage
 
