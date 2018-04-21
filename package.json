@@ -5,7 +5,7 @@
   "author":
     "Rasmus Josefsson <josefssonrasmus@gmail.com> (http://rasmusjosefsson.com/)",
   "license": "MIT",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/rajjejosefsson/react-modal-button.git"
